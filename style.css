@@ -1,0 +1,71 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 10px;
+  margin: 0 auto;
+  text-align: center;
+  background-color: rgb(220 104 255 / 99%);
+}
+button {
+  background-color: rgb(195, 0, 255);
+  width: 10%;
+  color: rgb(0, 0, 0);
+  border: none;
+  border-radius: 10px;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  color: white;
+  object-fit: cover;
+}
+
+nav {
+  background-color: #8f0073;
+  align-items: center;
+  font-size: 15px;
+  width: 80%;
+  border-radius: 10px;
+}
+nav ul a {
+  color: white;
+  text-decoration: none;
+}
+div.isiprofil {
+  background-color: #8f0073;
+  border-radius: 10px;
+  padding: 9px;
+  width: 80%;
+  font-size: 18px;
+}
+button.submit {
+  background-color: #8f0073;
+  width: 90%;
+  color: rgb(12, 0, 0);
+  height: 30px;
+  border: none;
+  border-radius: 6px;
+}
+.nama label {
+  display: block;
+}
+.nama,
+.nonton,
+.coba {
+  margin-bottom: 20px;
+}
+table {
+  border-collapse: collapse;
+  width: 75%;
+  background-color: white;
+  border: none;
+}
+table.main {
+  border: none;
+}
+table td,
+table th {
+  font-size: 15px;
+  padding: 10px;
+}
